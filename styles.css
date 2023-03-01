@@ -203,7 +203,7 @@
     /*background: linear-gradient(-45deg, #2e1d1d, #3d2929, #412e2e, #3e2d2d);
     background-size: 400% 400%;
     animation: gradient 5s ease infinite;*/
-    background: url(./images/background.png);
+    background: url(./images/Background.png);
     background-size: cover;
 }
 
